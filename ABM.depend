@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1557189481 source:c:\users\alan_\desktop\abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Menu.h"
+	"ArrayEmployees.h"
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557188258 source:c:\users\alan_\desktop\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"ArrayEmployees.h"
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557169233 c:\users\alan_\desktop\abm\inputs.h
+
+1557173860 source:c:\users\alan_\desktop\abm\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557166903 c:\users\alan_\desktop\abm\menu.h
+
+1557189239 source:c:\users\alan_\desktop\abm\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"ArrayEmployees.h"
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557167763 c:\users\alan_\desktop\abm\arrayemployees.h
+
+1557169935 c:\users\alan_\desktop\abm\utilities.h
+
+1557170145 c:\users\alan_\desktop\abm\stringformat.h
+
+1557174869 source:c:\users\alan_\desktop\abm\stringformat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557174783 source:c:\users\alan_\desktop\abm\utilities.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
