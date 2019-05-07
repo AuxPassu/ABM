@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1557242648 source:d:\alan passucci\passucci_alan_1c_1ºparcial\arraymovies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Menu.h"
+	"ArrayMovies.h"
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557230038 d:\alan passucci\passucci_alan_1c_1ºparcial\menu.h
+
+1557240195 d:\alan passucci\passucci_alan_1c_1ºparcial\arraymovies.h
+
+1557229650 d:\alan passucci\passucci_alan_1c_1ºparcial\inputs.h
+
+1557229693 d:\alan passucci\passucci_alan_1c_1ºparcial\utilities.h
+
+1557229727 d:\alan passucci\passucci_alan_1c_1ºparcial\stringformat.h
+
+1557229668 source:d:\alan passucci\passucci_alan_1c_1ºparcial\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557231422 source:d:\alan passucci\passucci_alan_1c_1ºparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557229740 source:d:\alan passucci\passucci_alan_1c_1ºparcial\stringformat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557240858 source:d:\alan passucci\passucci_alan_1c_1ºparcial\utilities.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
+1557240534 source:d:\alan passucci\passucci_alan_1c_1ºparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"ArrayMovies.h"
+	"Inputs.h"
+	"Utilities.h"
+	"stringFormat.h"
+
